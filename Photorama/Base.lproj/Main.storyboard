@@ -25,9 +25,17 @@
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="Sdj-w1-PN6" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="2WP-e5-sBe"/>
+                            <constraint firstItem="Sdj-w1-PN6" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="7Ha-UA-duK"/>
+                            <constraint firstItem="Sdj-w1-PN6" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="I0x-Wt-MxT"/>
+                            <constraint firstItem="Sdj-w1-PN6" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="KgX-qv-lA0"/>
                             <constraint firstItem="Sdj-w1-PN6" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="Rj4-og-rj5"/>
                             <constraint firstItem="Sdj-w1-PN6" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="SKj-Qh-rMq"/>
+                            <constraint firstItem="Sdj-w1-PN6" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="UPu-id-tcT"/>
+                            <constraint firstItem="Sdj-w1-PN6" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="VwB-nS-wob"/>
+                            <constraint firstItem="Sdj-w1-PN6" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="enE-Fz-mSA"/>
+                            <constraint firstItem="Sdj-w1-PN6" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="oIV-dm-F1B"/>
                             <constraint firstAttribute="trailing" secondItem="Sdj-w1-PN6" secondAttribute="trailing" id="pjc-pz-40c"/>
+                            <constraint firstItem="Sdj-w1-PN6" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="zpz-Ym-QCu"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
